@@ -4,7 +4,8 @@ if speak_to_grandma == "I LOVE YOU GRANDMA"
   print "I LOVE YOU TOO PUMPKIN"
 elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
   print "NO, NOT SINCE 1938!"
-else print "HUH?! SPEAK UP, SONNY!"
+else 
+  print "HUH?! SPEAK UP, SONNY!"
 end
 
 # Whatever you say to grandma, she should respond with
