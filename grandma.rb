@@ -1,5 +1,13 @@
 # Write a speak_to_grandma method.
 
+if speak_to_grandma == "I LOVE YOU GRANDMA"
+  print "I LOVE YOU TOO PUMPKIN"
+elsif speak_to_grandma == "Hi Nana, how are you?"
+  print "HUH?! SPEAK UP, SONNY!"
+elsif speak_to_grandma == "WHAT DID YOU EAT TODAY?"
+  print "NO, NOT SINCE 1938!"
+else print "HUH?! SPEAK UP, SONNY!"
+
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
